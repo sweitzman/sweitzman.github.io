@@ -1,0 +1,35 @@
+
+img {
+	width:80%;
+	margin-left: 50px;
+	margin-top: 10px;
+
+
+
+
+}
+
+.star {
+  width: 20px; /* Width of new image */
+  height: 20px; /* Height of new image */
+  position: absolute;
+  left:350px;
+  top: 3500px;
+  z-index:10;
+}
+
+
+table, td {
+	border: 1px #70b8ff ;
+
+
+}
+
+
+
+
+
+
+
+
+
